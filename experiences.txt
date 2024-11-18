@@ -1,1 +1,2 @@
-I do not have prior experiences with CI/CD.
+I do not have prior experiences with CI/CD. - Jeriah
+I have worked with CI when developing in CS classes at Tech - Shane
